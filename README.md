@@ -28,8 +28,8 @@ Or use your own environment with the instructions below.
 os.environ["OPENAI_API_KEY"] = "your-openai-api-key-here"
 You can get your API key from https://platform.openai.com/account/api-keys
 
-4. Run the Notebook
-Run the main cell step-by-step or click "Runtime > Run all" in Google Colab.
+### 4. Run the Notebook
+Run the main cell 
 
 Text is split into chunks and converted to embeddings using OpenAI
 
