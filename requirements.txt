@@ -1,0 +1,7 @@
+openai
+langchain
+langchain-community
+faiss-cpu
+gradio
+PyPDF2
+tiktoken
