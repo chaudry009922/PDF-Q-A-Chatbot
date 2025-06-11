@@ -1,4 +1,4 @@
-# PDF Q&A Chatbot 📚🤖
+# PDF Q&A Chatbot 
 
 This project is an interactive PDF Question-Answering chatbot powered by OpenAI's LLMs, LangChain, and Gradio. Users can upload any PDF document and ask natural language questions based on its content.
 
